@@ -15,7 +15,7 @@ To get started with these programs, you can clone the repository to your local m
 
 bash
 Copy code
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/Chandan-I/Claster-classes-with-C/
 How to Use
 Navigate to the cloned repository directory:
 
